@@ -1,5 +1,5 @@
 uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:fr,Short name:en,Short name:fr,Description:en,Description:fr,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:1100
-a7ad184c-b79a-476d-9ba2-ef980375da28,,CIEL:165387,Fœtus Number,Numéro du fœtus,Fœtus #,Numéro du fœtus,,,Misc,Numeric,,,,,,,,,,,
+a7ad184c-b79a-476d-9ba2-ef980375da28,,CIEL:165387,Foetus Number,Numéro du fœtus,Foetus #,Numéro du fœtus,,,Misc,Numeric,,,,,,,,,,,
 7ce5a9fe-d9e0-427e-a080-ce8a9c673822,,CIEL:1440,Fetal heart rate,Rythme cardiaque fœtal,Fetal heart rate,Rythme cardiaque fœtal,,,Misc,Numeric,,,,FALSE,beats/min,120,160,40,250,,
 c4526510-3f10-11e4-adec-0800271c1b75,,CIEL:160091,Cephalic,Céphalique,Cephalic,Céphalique,,,Misc,N/A,,,,,,,,,,,
 a0dc5727-c33e-479b-b70e-fb0eb7e45853,,CIEL:146922,Breech,Siège,Breech,Siège,,,Misc,N/A,,,,,,,,,,,
@@ -13,7 +13,7 @@ b0277458-f1c8-43d7-a18a-996a9f183b65,,,Occ-frontal diameter,Diamètre occ-fronta
 fe37fd4a-31f1-48a7-adc4-e7833a7c6859,,,Humerus length,Longueur humérus,Humerus length,Longueur humérus,,,Misc,Numeric,,,,,,,,,,,
 dd7a5da2-ce47-4eae-8e26-3317fc53f4da,,,Abdominal circumference,Circonference abdominale,Abdominal circumference,Circonference abdominale,,,Misc,Numeric,,,,,,,,,,,
 c96709f0-f446-4081-98b1-494b562dd7b4,,,Estimated fetal weight,Poids fœtal estimé,Estimated fetal weight,Poids fœtal estimé,,,Misc,Numeric,,,,,,,,,,,
-83946617-9be2-5cc9-722c-19c2eb8179bc,,,Foetus Details Set,Détails sur le foetus,Foetus Details,Détails sur le foetus,,,ConvSet,N/A,,,Fœtus Number;Fetal heart rate;Presentation;Biparietal diameter; Occ-frontal diameter; Cranial circumference; Femur length; Humerus length; Abdominal circumference; Estimated fetal weight;,,,,,,,,
+83946617-9be2-5cc9-722c-19c2eb8179bc,,,Foetus Details Set,Détails sur le fœtus,Foetus Details,Détails sur le fœtus,,,ConvSet,N/A,,,Foetus Number;Fetal heart rate;Presentation;Biparietal diameter; Occ-frontal diameter; Cranial circumference; Femur length; Humerus length; Abdominal circumference; Estimated fetal weight;,,,,,,,,
 ca69545b-dfef-4210-b311-dc8a1d309311,,CIEL:540,Anterior,Antérieur,Anterior,Antérieur,,,Misc,N/A,,,,,,,,,,,
 1f82cf3c-ce84-4c98-a35a-c37c45edc5fc,,CIEL:541,Posterior,Postérieur,Posterior,Postérieur,,,Misc,N/A,,,,,,,,,,,
 cc4c6921-1d06-48f7-a7d8-a0c6664b515e,,CIEL:114127,Praevia,Praevia,Praevia,Praevia,,,Misc,N/A,,,,,,,,,,,
