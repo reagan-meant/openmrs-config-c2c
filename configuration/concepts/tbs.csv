@@ -12,7 +12,7 @@ a4891235-c7fb-4fff-aca0-1e0829fe04ab,,,BCG scar,Cicatrice BCG,BCG scar,Cicatrice
 0b12c5c7-a106-499c-af47-b193d359c6df,,,Extra pulmonary,Extra pulmonaire,Extra pulmonary,Extra pulmonaire,,,Misc,N/A,,,,,,,,,,,
 48049976-cb0a-42b4-8c52-fc0e733f38c5,,,Anatomical site,Site anatomique,Anatomical site,Site anatomique,,,Misc,Coded,,Pulmonaire;Extra pulmonaire,,,,,,,,,
 b37cdac4-5bc2-4780-83d1-9920cfbd8471,,,Extra pulmonary Details,Extra pulmonaire details,Extra pulmonary Details,Extra pulmonaire details,,,Misc,Text,,,,,,,,,,,
-0b597a8a-ac2c-4ba6-b5ca-8306deb7c970,,,Classification of TB,Classification de la tuberculose,Classification of TB,Classification de la tuberculose,,,ConvSet,N/A,,,Anatomical site;Extra pulmonary Details,,,,,,,,
+0b597a8a-ac2c-4ba6-b5ca-8306deb7c970,,,Classification of TB,Classification de la tuberculose,Classification of TB,Classification de la tuberculose,,,ConvSet,N/A,,,Site anatomique;Extra pulmonaire details,,,,,,,,
 ceac8760-eaae-4792-85bc-b4d8b226e6c3,,,Relapse,Rechute,Relapse,Rechute,,,Misc,N/A,,,,,,,,,,,
 fb53cdbd-4271-41b8-879f-3c363550d136,,,Treatment after loss of follow-up,Traitement après interruption du suivi (perdu de vue),Treatment after loss of follow-up,Traitement après interruption du suivi (perdu de vue),,,Misc,N/A,,,,,,,,,,,
 59720c3c-c505-4808-bf34-bbdfe3b07032,,,Treatment after failure,Traitement après échec,Treatment after failure,Traitement après échec,,,Misc,N/A,,,,,,,,,,,
